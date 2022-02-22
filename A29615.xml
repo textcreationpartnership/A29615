@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Broken merchants complaint, represented in a dialogue between  a scrivener and a banker on the Royal-Exchange of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29615</idno>
+            <idno type="STC">Wing B4843</idno>
+            <idno type="STC">ESTC R12211</idno>
+            <idno type="EEBO-CITATION">11692055</idno>
+            <idno type="OCLC">ocm 11692055</idno>
+            <idno type="VID">48208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48208)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 16:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Broken merchants complaint, represented in a dialogue between  a scrivener and a banker on the Royal-Exchange of London</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.T. ...,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Merchants --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48208:1"/>
+            <pb facs="tcp:48208:1" rendition="simple:additions"/>
+            <p>THE <hi>Broken Merchants</hi> COMPLAINT: Repreſented in a DIALOGUE BETWEEN A SCRIVENER AND A BANKER ON THE Royal-Exchange OF LONDON.</p>
+            <p>Printed by <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. T.</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi> MDCLXXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:48208:2"/>
+            <pb n="1" facs="tcp:48208:2"/>
+            <head>The Broken Merchants Complaint, Repreſented in a <hi>Dialogue</hi> between a <hi>Scrivener,</hi> and a <hi>Ban<g ref="char:EOLhyphen"/>ker,</hi> on the <hi>Royal-Exchange</hi> of <hi>London.</hi>
+            </head>
+            <sp>
+               <speaker>Scrivener.</speaker>
+               <p>
+                  <hi>OH! Good morrow to you Mr.</hi> Ban<g ref="char:EOLhyphen"/>ker, <hi>pray how goes matters and cauſes with you, ſince our laſt Conference together?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Banker.</speaker>
+               <p>Why, truly not ſo well as they ſhould Mr. <hi>Scrivener,</hi> yet indifferent well: But pray what's the matter you ſeem to ſmile this Morning on me, as if you had either heard good news, or received ſome deſ<g ref="char:EOLhyphen"/>perate Debt, or had got ſome footing in a young Extra<g ref="char:EOLhyphen"/>vagant's Eſtate, pray let me know the reaſon of your pleaſantneſs?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Verily Mr.</hi> Banker, <hi>it cannot but make me ſmile to obſerve what Gulls and Fools You have made of moſt of the Moneyed people in the Nation, for theſe ſeveral years laſt paſt: Whereas heretofore, the Men of our way did generally diſtribute the Caſt of the Nation on good Security, yet of late years 'twas but here and there one, that could procure any Money at all, But were content to ſit down with their old Trade, Engroſs a pair of Leaſes, write now and then a Penal-Bond, a Bail-Bond, or a Bond of Ar<g ref="char:EOLhyphen"/>bitration; and ſometimes a Love-Letter for a Servant-Maid, or ſo.— Becauſe forſooth, no Security for Money like the precious</hi> Bankers <hi>of</hi> Lombard-ſtreet.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Hold good Mr. <hi>Scrivener,</hi> and what of all this, I do aver, there was no Security like the Bank of <hi>Lombard.</hi> (I don't mean the <hi>Lumber-Office</hi> erecting;) But of late I muſt confeſs, You the <hi>Scribes</hi> and <hi>Phariſees</hi> of the Nation,
+<pb n="2" facs="tcp:48208:3"/>
+have, to advance your own Intereſt, uſed all the Arti<g ref="char:EOLhyphen"/>fices imaginable to diſcredit our Bank, and You have not wanted too, ſome help from the late <hi>Achitophels</hi> of the Kingdom, to carry on Your Deſigns.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Good Mr.</hi> Banker <hi>not ſo hot, let's talk ſeriouſly of this matter, for 'tis of great moment to You; It may be, I may not have an opportunity to ſee you on this place again; ſince you know how things ſtand in</hi> Lombard-ſtreet <hi>juſt at this time.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Let them ſtand how they will; the (<hi>Bankers</hi> no doubt) will acquit themſelves like honeſt men, and though you <hi>Scriveners</hi> and your Emiſſaries, have incited all per<g ref="char:EOLhyphen"/>ſons to come in with violence upon us, (when our Bank lies abroad in the World, and cannot be commanded at an hours warning,) yet it will appear to the World in a little time, that their practices have not needed Extor<g ref="char:EOLhyphen"/>tion'd Pardons every year, as ſome of your way have thought neceſſary to Sue out.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Well, Well, I know where about you are, and ſince you Soar ſo high, let me but make ſome ſober Remarks on the Original of your Banking-Trade, and the Progreſſion of it, and the State it's now in; And when I have ſo done, I hope the Nation will take warning thereby, and conſider what they do, before they intrust their own, and Childrens Bread in the hands of ſuch</hi> Caterpillers.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Now I find Mr. <hi>Scrivener,</hi> you ſpeak ſo loud, I ſhall be even with you by and by; You pretend to give an account of the Original of <hi>Banking,</hi> it's Progreſſion, and preſent State; I do alſo (to prevent your running on too faſt) promiſe my ſelf ſome diverſion in opening the Miſtery of <hi>Scribes,</hi> their Original, Progreſſion, and pre<g ref="char:EOLhyphen"/>ſent State; And when I have ſo done, I hope the pru<g ref="char:EOLhyphen"/>dence of the Nobility and Gentry, and the warineſs of
+<pb n="3" facs="tcp:48208:3"/>
+Trading Citizens, will beware how they come under the Harrows and Saws, of You mercileſs <hi>Scribes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>But with your favour good Mr.</hi> Banker, <hi>I told you I would begin firſt, and there's reaſon I ſhould; Firſt, in re<g ref="char:EOLhyphen"/>lation to the Antiquity of my Profeſſion, and then the Re<g ref="char:EOLhyphen"/>putation it has above yours at this day, Challenges the pre<g ref="char:EOLhyphen"/>heminence.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Well; then e'en go on, and make all the haſt you can, for my time on the <hi>Change</hi> is but ſhort, and there ſtays ſome Friends to go with me to the <hi>Mini,</hi> and then I muſt to the <hi>Savoy, White-Fryers,</hi> and divers other places; ſo that pray be brief.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>When all things in this Kingdom in the year</hi> 1640. <hi>were brought to that</hi> Criſis, <hi>that Father roſe againſt Son, and the Son againſt the Father, when Rebellion against our Excellent Prince (of ever bleſſed Memory) was eſteemed, Fighting the</hi> Lords Battels, <hi>when</hi> Covenants, Oaths, <hi>&amp;</hi> En<g ref="char:EOLhyphen"/>gagements, <hi>were contriv'd to Murther the Innocent, to com<g ref="char:EOLhyphen"/>mit</hi> Rapines <hi>and</hi> Sacriledge, <hi>to Rob the Fatherleſs and the Widow. And to</hi> Blaſpheme God <hi>and the</hi> King, <hi>were the diſtinguſhing marks of the Lords Secret Ones, (as the Fa<g ref="char:EOLhyphen"/>mous</hi> Owen <hi>well obſerves.) When</hi> Sequeſtrations, Decima<g ref="char:EOLhyphen"/>tions, <hi>and ſuch like abominations were accounted doing the Lords work. Then it was that</hi> Banking <hi>firſt began in this Kingdom: Then it was the truly Loyal Nobility and Gentry were forced to</hi> Haberdaſhers, <hi>and</hi> Grocers-Hall <hi>for compo<g ref="char:EOLhyphen"/>ſition; Then it was the good men were forced to leave their Moneys in conjunction with the Zealot,</hi> Thimbles <hi>and</hi> Bod<g ref="char:EOLhyphen"/>kins, <hi>in order to the carrying on the</hi> Cauſe. <hi>Now, here was the general</hi> Bank, <hi>which enriched ſo many of the Rebellious Beggers, the</hi> Dray-man, <hi>the</hi> Cobler, <hi>the</hi> Butcher, <hi>the</hi> Tay<g ref="char:EOLhyphen"/>lor, <hi>the</hi> Block-maker, &amp;c. <hi>Who qualified themſelves by their vaſſalage to an impudent Tyranical <g ref="char:V">Ʋ</g>ſurpation, to become
+<pb n="4" facs="tcp:48208:4"/>
+Lords, yea, and ſuch Lords too, who made all our Nobility and Gentry tremble before them: And here Mr.</hi> Banker, <hi>I muſt acknowledge a difference between this first ſort of</hi> Banking, <hi>and the late dealing in</hi> Lombard. <hi>The Caſh of the Nation then was imployed to buy</hi> Covenants, <hi>yea</hi> Scotch-Covenants; <hi>to buy</hi> Armies, <hi>yea</hi> Scotch-Armies <hi>too; to buy</hi> Garriſons, <hi>yea ſtrong</hi> Garriſons <hi>too; That the Bleſſed King might not have room where to hide His Head in the day of Battel; To buy a ſtanding</hi> Presbytery <hi>in the Church, and root out</hi> Epiſcopacy <hi>for the ſake of that, and their rich Lands.</hi>
+               </p>
+               <p>
+                  <hi>Well, after it had pleaſed God to permit a proſperous Re<g ref="char:EOLhyphen"/>bellion, and the hands of violence to ſeize our King, and cut him off from his People; and to permit an intollerable <g ref="char:V">Ʋ</g>ſurpation, (which counterfeited Monarchy in ſome degree,) alas then 'twas our</hi> Rebellious Bank <hi>was utterly destroy'd, and no</hi> Banker <hi>was to be heard of till the Collections, either for Slaves in</hi> Algiers, <hi>or principally for the Poor</hi> Pied<g ref="char:EOLhyphen"/>mont <hi>Proteſtants.</hi>
+               </p>
+               <p>Lombard, <hi>then began to look Great, and the publick Mo<g ref="char:EOLhyphen"/>ney for the Poor and the diſtreſſed, was excellently mana<g ref="char:EOLhyphen"/>ged ſome where, and by ſome body, as Sir</hi> Samuel More<g ref="char:EOLhyphen"/>land <hi>well obſerves</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Hold, Hold, good Mr. <hi>Scrivener,</hi> let Me have a word too; your reflection on the paſt actions of the for<g ref="char:EOLhyphen"/>mer Age, is not ſo well by your favour; you know they ought to be buried in Oblivion: But for You to ground the Original of <hi>Banking,</hi> in <hi>Haberdaſhers-Hall,</hi> is pretty I muſt confeſs, but very diſtant from the point, and yet I am willing to acknowledge it began in <hi>Lombard,</hi> about the <hi>Piedmont</hi> buſineſs, or a little before.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>This interruption was not fair Mr.</hi> Banker, <hi>but I'le go on.— After the <g ref="char:V">Ʋ</g>ſurper went to his place, and the
+<pb n="5" facs="tcp:48208:4"/>
+Maſters of miſ-rule ſucceeded, when neither the</hi> Exche<g ref="char:EOLhyphen"/>quer <hi>Caſh, nor that of</hi> Lombard <hi>was ſafe under the power of thoſe</hi> Hydra <hi>of Tyrants: It pleaſed God to confound all their Councels, and to bring the Baniſh'd Son of the Glorious Martyr (our Dread Sovereign) to the Throne of His Father. And now begins the flouriſhing Trade of</hi> Banking, <hi>by the Managery of Gold-ſmiths.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Well, and what then?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Why then 'twas I ſay, your old men bred up young ones, in the most dexterous way of telling over Bags of Money, and one would have thought they learnt nothing elſe; but you will find in the concluſion Mr.</hi> Banker, <hi>the ſeveral gradations by which you had of late raiſed your ſelves to that height.</hi>
+               </p>
+               <p>
+                  <hi>Firſt, when after His Majeſty's return, the publick Re<g ref="char:EOLhyphen"/>ceipts were ſettled for the Revenue, 'twas your Principal care to get in with the General Receivers by Bribes and Re<g ref="char:EOLhyphen"/>wards, that the returns of their ſeveral</hi> Quota's <hi>might be paid into your hands, and ſo long as they could handſomly avoid an</hi> Exchequer <hi>Proceſs for its</hi> non payment <hi>there; and to toll them in the better,</hi> 4 per Cent <hi>you would give them during the Credit, and their Money at an hours warning.</hi>
+               </p>
+               <p>
+                  <hi>Now, one would think that giving</hi> 4 per cent. <hi>for Money, and anſwering it at an hours warning, ſhould be a ſtrange ſort of dealing; But here was your knack, His Majeſty after His Return (like a Good and a Gracious Prince,) did beſtow many Largeſses on His ſuffering Subjects, and it may be ſo many, that the publick Revenue could ſcarcely anſwer when they wanted it; ſo that the poor</hi> Cavalier <hi>being de<g ref="char:EOLhyphen"/>layed at the</hi> Exchequer, <hi>was fain to have recourſe to your Shops; and having agreed with the good man for his Order at near</hi> cent. per cent. <hi>(ſometimes when Poverty and want in him ſtar'd you in the Face) you very fairly paid him
+<pb n="6" facs="tcp:48208:5"/>
+with the Kings own Money; ſo that in proceſs of time, his Majeſty became Debtor to the</hi> Bank <hi>in prodigious Sums of Money; and becauſe the neceſſity of the publick Affairs drai<g ref="char:EOLhyphen"/>ned the</hi> Exchequer <hi>as faſt as Money came in, that you could not get your</hi> Tallies <hi>paid off, His Majeſty was fain to allow you</hi> 10 per cent <hi>&amp; for the Forbearance.— Here both King and poor Subject are very fairly dealt withall: I could in many hundred Instances produce the various Extortions you exacted from</hi> Embaſſadors, Agents, &amp;c. <hi>Both Foreign and Domestick, which may remain as an eternal reproach to your</hi> Bank.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Fleſh and Bloud is not able to forbear your Impu<g ref="char:EOLhyphen"/>dence any longer, were it not on the <hi>Change,</hi> I ſhould call you to another account; you have not only opened a ſecret which ought to be hid, but you have reflected on the wiſdom of the whole Court, which I hope will conſider you accordingly, when I make my complaint.</p>
+               <p>But for ſuch Varlets as You are known to be, to accuſe Us of ſuch ſtrange Extortion, ſurely none but Children and Fools will give credit to it. I ſhall therefore retort on your way of arguing, &amp; let the World know the Miſte<g ref="char:EOLhyphen"/>ries and Practices of the men of your profeſſion.</p>
+               <p>Firſt, as to your original, I ſhall not need to dive into that, 'tis plain there were ſuch in the days of our Saviour, and long before, Men called Scribes, that attended on the Money-changers which put forth to Uſury (tho' there were other ſorts of Knaves, called Scribes too in thoſe days) and they behaved themſelves ſo well in thoſe times, that our Saviour whipt them out of the <hi>Temple</hi> (for pro<g ref="char:EOLhyphen"/>phaning the Holy <hi>Temple,</hi> to them was as nothing,) and herded them with the Proud Hypocritical <hi>Phariſees,</hi> as a ſort of Fellows not fit for humane converſation.</p>
+               <p>But to come down nearer to our times. Have not I
+<pb n="7" facs="tcp:48208:5"/>
+(as well as others) ſeen a young man of your profeſſion, ſome few years paſt, take a half-Shop, and furniſh it with a Ream of Paper, half a ſcore pair of Indentures, 100 of Quills; a Bottle of Ink; a Pumice-Stone; a Pen-Knife, (and which I had almoſt forgot) four Labels on a Poll at the Shop-window, and be as abſolute a <hi>Scribe</hi> as any of you. Then having ſpent his time a while in little Affairs (which could ſcarce clear him twice a day at the <hi>Wool-Pack</hi> in <hi>Foster-lane</hi>) there happened an old Uſurer to <hi>Dialogue</hi> with him about Moneys; well quoth the Uſurer, you are a young man, I ſee you pretty dili<g ref="char:EOLhyphen"/>gent in your Buſineſs, I have a deſign of kindneſs to you, if you manage my Affairs warily, and as ſecurely as you can.</p>
+               <p>The Inſtructions I have given to many of your Pro<g ref="char:EOLhyphen"/>feſſion, I now give to you; and they ſhall be to you the ſtanding Rules how to manage my Affairs, and your own too, in the diſpoſing of Money to Intereſt.</p>
+               <p>Firſt, let it be your care to frequent young Mer<g ref="char:EOLhyphen"/>chants company on the <hi>Exchange,</hi> ſuch who have not very good Foundations for Trade and Bargains, but are in perpetual want of Money to manage their Affairs, feed them with daily helps on two Securities firſt; then as the Sum increaſeth, enlarge your Security, taking in more, and as near as you can thoſe related to Eſtates; Let your Procurations be large, and your Moneys often, lending by particular Sums, the oftner will your Con<g ref="char:EOLhyphen"/>tinuation Money come in, out of which (as you and I agree) there may be ſome advance to my Lawful Intereſt.</p>
+               <p>Then again, be ſure, what ever Trades-men you lend Money to on perſonal Security, you frequently enquire into the ſeveral Shop of Your Trade, whether any of your Bonds-men be there obliged; by ſuch frequent communi<g ref="char:EOLhyphen"/>cation,
+<pb n="8" facs="tcp:48208:6"/>
+you ſhall know the ability of your perſons; whe<g ref="char:EOLhyphen"/>ther able to ſtand or are a falling; Now, this muſt be done with great caution too, leaſt you having made the firſt diſcovery, and it ſhould happen a number of your Bonds-men ſhould be bound at other Shops, They ſhould begin the Ruine and Deſtruction of them firſt; For 'tis common you know, he that comes firſt, is firſt ſerved.</p>
+               <p>Then when you find any of them ſinking, ply them cloſe for Continuation, and Civility-Money, making over Goods to you, or confeſſing Judgements, Statutes, or Recognizances, and keep your ſelf ſafe that way: Frequently viſit ſuch ſick Cuſtomers, till you ſee they can bear up no longer, then ſhew no Money, to ſave your own Bacon, and mine too; This way I know, many of your Trade have made uſe of moſt part of their time, and have found great comfort and refreſhment thereby, tho' to the ruine of the poor <hi>Ludgateer.</hi>
+               </p>
+               <p>Again, another plain and direct way to advance your Trade, is, by holding correſpondence with the Hectors and Debauchees of the Town, but privately, ſo as no ſo<g ref="char:EOLhyphen"/>ber perſon take notice of It. By that means you will in<g ref="char:EOLhyphen"/>form your ſelf of the ways of the Extravagant Heirs of the Town, and the Hectors will aſſiſt you therein; for they not only are ſet on work by the Devil to Damn themſelves, but to draw in all they can with them. How have I ſeen many of your Profeſſion by little gradations of 50 and 50 and 25 and 10 and 5 Pounds, work into a Barony or Lordſhip, till for another larger Sum, upon the pinch of a reſolved Debauchery, part with all the Eſtate to the great advantage of the <hi>Scribe;</hi> Thus muſt you purſue him till all be gone.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Enough, Enough, good Mr.</hi> Banker, <hi>how came you to be informed ſo much of our way? 'tis poſſible the young man I
+<pb n="9" facs="tcp:48208:6"/>
+knew under the circumstances you repreſented him in.—But I am reſolved to purſue you where I left off, and when I have done, ſay what you will.</hi>
+               </p>
+               <p>
+                  <hi>Then when you had wheedled the Bank and Caſh of the Na<g ref="char:EOLhyphen"/>tion into your hands, you did what you would, advance to the King on His</hi> Revenues, <hi>pay Merchants Bills, by having their Ware-Houſes in Pawn; receive</hi> 200 l. <hi>for the loan of</hi> 1500 l. <hi>Oh brave Merchant, like to thrive! Pawns of Court Jewels,</hi> 40 per cent. <hi>and divers other Intregues, that one would think ſhould have advanced you all to that degree, as few of the Richest Nobility could equal you in Estate.</hi>
+               </p>
+               <p>
+                  <hi>For, have I not ſeen within a few years, ſeveral of your way begin with a ſmall or no Fortune, in a fine Wain-Scoted Shop without Plate, having first Listed himſelf into the Congregations of</hi> Owen, Doelittle, Jenkins, Vincent, <hi>or ſome Holders-Forth at</hi> Hackney; <hi>where the Preacher was ſure to be obliged by a Preſent, to commend the Caſh of the Congregation to the Managery and Care of the Pretious young man; who having learnt the pious Fraud of the</hi> SAINTS, <hi>manag'd their Money, ſo as in</hi> 6 <hi>or</hi> 8 <hi>years time, arrived to his Coach and</hi> 4, <hi>his Chariot and</hi> 2. <hi>and always had</hi> 20000 l. <hi>of his own, ready for a Purchaſe.</hi>
+               </p>
+               <p>
+                  <hi>Again, have not we ſeen thoſe eminently renowned men of Pretiouſneſs and Saintſhip, that not long ſince lived about</hi> Hackney, (<hi>which dealt much in</hi> Excize <hi>and</hi> Chimney-mo<g ref="char:EOLhyphen"/>ney,) <hi>become Famous Bankers? what a plentiful Table did they keep in or near that place for the entertainment of both</hi> Presbyter, Independent, <hi>and</hi> Papiſt, Quakers, Fifth-Mo<g ref="char:EOLhyphen"/>narch, <hi>and</hi> Singers <hi>of</hi> Iſrael, <hi>in order to the drawing their Money from them to carry on Fire-works in</hi> Ireland. <hi>But one thing occurs to my memory, ſhall be told you. There was a Noble Marqueſs of this Nation, came to a Knight, and Al<g ref="char:EOLhyphen"/>derman
+<pb n="10" facs="tcp:48208:7"/>
+in his Shop, and told him he had ſome</hi> 1500 l. <hi>in looſe Money in his Cloſet at home, and having no occaſion for it, deſired him to know where he might put out ſuch a Sum ſafe for ſome time? My Lord (replied the Knight)</hi> there are none ſo ſure as the <hi>Frs.</hi> men of great Dealing and Eſtates: <hi>Then ſays the Lord I'le ſend it to you, take the ſame Security you ſay you have for what they owe you, and the ſame Interest. Now, ſo it happened that the Knight had the ſame Sum in the</hi> Bankers <hi>hands, went to them, and only changed Bonds, and ſo Secur'd his Money, being ſenſible the</hi> Bankers <hi>could not hold out long. Immediately after they fail'd; and upon Compoſition, told the Lord how the caſe was, which had like to have coſt the Knight a broken pate, beſides his purſe.</hi>
+               </p>
+               <p>
+                  <hi>Then for the Renowned</hi> Bankers <hi>near the Horſe, how were they advanced of a ſudden? nay 'twas a favour they would per<g ref="char:EOLhyphen"/>mit their Boys to give a Note for</hi> 1000 l. <hi>when brought 'em in; and yet when you have all done, here's nothing but com<g ref="char:EOLhyphen"/>pounding, ruining Families, and ſuch like, with all your little</hi> Dark-Lanthorn <hi>tricks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Since you are reflecting on perſons at this rate, I can criminate that way too, good Mr. <hi>Scrivener;</hi> You know well enough that there are ſome of your way, who not 100 years ago, might wear either Cloth or Leather-Brit<g ref="char:EOLhyphen"/>ches, (which could be got with moſt eaſe,) that have with<g ref="char:EOLhyphen"/>in few years done Wonders, nay incredible things, paſt any rational mans belief: As ſuppoſing a Perſon of Hon<g ref="char:EOLhyphen"/>our; (being addicted) to ſome Extravigances ſhould want 10000 <hi>l.</hi> ('tis a great Sum) why, who ſhall we repair to for the Money, but to one lately plying at the <hi>Temple-gate,</hi> or to his Partner near the <hi>Change?</hi> well, ſuppoſe 10000 <hi>l.</hi>
+firſt, good Land Security, you may be ſure; Then comes in by way of humbly ſheweth to Mr. Alderman, <hi>Sir, pray help me to my Money from ſuch a Lord; There's for you.</hi>
+                  <pb n="11" facs="tcp:48208:7"/>
+Others, <hi>Pray take in my Judgment and my Recogni<g ref="char:EOLhyphen"/>zances with yours into ſuch a Lordſhip; There's for you.</hi> Then projects ſet a foot to get all Incumbrances off; and if ſuch perſons had had any ſparks of Juſtice or Honeſty in them, the Noble-man's Eſtate had not been dwindled into <hi>Atoms,</hi> and they (out of his ruines) arrived to the report of being worth 10000 <hi>l.</hi> Oh brave <hi>Scribe,</hi> but this is but one particular inſtance. Oh! but look abroad into the Na<g ref="char:EOLhyphen"/>tion, and you will find enough, even in every Family where has been need for Money. Oh! what Procurations, and Continuations, Staving off, changing Security, delaying Seiſures, have theſe men made uſe of, to bring Eſtates into their own hands, to the ruine and deſolation of many Honorable, Worthy Families? <hi>Wo be to you Scribes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>I am very ſenſible who you mean, but your ſhallow Brains will never find out the depth of that concern; we can<g ref="char:EOLhyphen"/>not ſerve Gentlemen for nothing, nor run great risks as we do without proportinable Rewards; Nor is it fit we ſhould: every man is born for himſelf: nor can we in our way, but be guilty of ſome over-reckoning, which when we are ſenſible, may come under the Laſh of the Law, we never want Broad-Seals to preſerve us from the hungry purſuit of the Enemy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>'Tis to be hoped you'l find no more ſuch Pardons for your damn'd Extortions, and Ruining of man-kind. I muſt acknowledge indeed we have ventur'd high in the World, and therefore had need be well conſider'd.— See how we have been ruin'd once by <hi>Exchequer</hi>-Trade, by <hi>City</hi>-Trade, by Plots of divers ſorts, and poſſi<g ref="char:EOLhyphen"/>bly we had ſtood firm, had not the <hi>Bank</hi> of the City been employed in under-ground and unaccountable con<g ref="char:EOLhyphen"/>cerns, which in time may be found out.</p>
+               <p>And ſo the <hi>India-Bank;</hi> forſooth becauſe one can't be <hi>Sheriff,</hi> and another can't be <hi>Alderman,</hi> and another can't
+<pb n="12" facs="tcp:48208:8"/>
+be a <hi>Knight,</hi> and becauſe <hi>Pilkington</hi> is caſt, and <hi>Bethel</hi> turn'd out of all Office; and becauſe forſooth we can't do what we would, we can't pack Juries, to acquit Traytors, nor have <hi>Parliaments</hi> when we pleaſe, nor won't believe that the <hi>Pope</hi> ſets out from <hi>Rome</hi> next <hi>Midſomer-day,</hi> with his whole Colledge of <hi>Cardinals,</hi> attended with a Million of <hi>Jeſuits, Monks</hi> and <hi>Fryers,</hi> with <hi>Pardons, Indulgences,</hi> and <hi>Commiſſions,</hi> (to renue thoſe loſt by Dr. <hi>Oates,</hi>) there<g ref="char:EOLhyphen"/>fore we muſt call in our Money, (cry the <hi>Brethren,</hi>) that the ſenſible decay of Trade, may at laſt animate the City to follow the Councels of our late <hi>Achitophels;</hi> Truly Mr. <hi>Scrivener,</hi> I am apt to believe, theſe, and the former reaſons has brought this diſcredit on our <hi>Bank.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Well, 'tis time for me to go home to Dinner, I'le only give ſome wholſome Councels and cautions to you, and ſo leave you to go after your Brethren.</hi>
+               </p>
+               <p>
+                  <hi>Firſt, I would have you to give up a true and faithful ac<g ref="char:EOLhyphen"/>count to all your Creditors, of the divers ways and methods you have taken to ruine ſo many Families as you have done; Conſider how the Widow-Mother mourns, the neceſſity the Daughters lie under of being Debauch'd for want of Huſ<g ref="char:EOLhyphen"/>bands; conſider the cries of the Fatherleſs and Orphans; conſider when 'twas, and where he is to be found of your way (except a very few) that have not ſquandred and imbezel'd away Millions of the Subjects Money to their utter ruine and undoing, when no tolerable account can be given what's be<g ref="char:EOLhyphen"/>come on't; Let all henceforward that will be willfully blind, be ſo dececeived, if they will not return again to our Shops, where they may have good Land, Leaſe, or perſonal Security for their Money, then ſhall we ſee plenty of Trade, no com<g ref="char:EOLhyphen"/>plaints in our Streets, as at this day.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Very pleaſant good Mr. <hi>Scrivener,</hi> even out of the Frying-Pan into the Fire; For my part I am reſolved to
+<pb n="13" facs="tcp:48208:8"/>
+give over for divers reaſons, but more principally becauſe needs muſt.— And am reſolved to get into the new project, I mean the <hi>Lumber-Office;</hi> But before I enter on that diſcourſe, I would adviſe you to go home, and conſider with your ſelf what you have done, and don't think your rejoycing at our downfal, nor your wheedles of good Security, will encourage people to return again to their <hi>Aegyptian Slaveries,</hi> eſpecially if they know ſo well as I, the miſeries that have attended many Families. For ſhame go and call your Brethren together, and go to the ſeveral Priſons in and about <hi>London,</hi> and don't let ſo many poor diſconſolate and ruin'd people lie there ready to ſtarve at the Suits of You <hi>Scribes;</hi> You may e'ne be rank'd with the <hi>Broker</hi> and the <hi>Tally-man,</hi> for between them the Securers, Uſurers, and ſuch like Cattle, the Pri<g ref="char:EOLhyphen"/>ſons are almoſt full of poor honeſt Souls, groaning under Tyranny and Cruelties.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>I underſtand you good Mr.</hi> Banker, <hi>for my part, I am a little aſhamed to ſee the cruelties the little Fellows of our Pro<g ref="char:EOLhyphen"/>feſſion uſe among the poorer ſort; but 'tis their buſineſs, and they do it in their own way; alas for our better ſort, we ne<g ref="char:EOLhyphen"/>ver trouble our ſelves about theſe little minute matters, for when we ſtrike, 'tis to knock down a fat Barron or Lord<g ref="char:EOLhyphen"/>ſhip; when we ſee there's no Money ſtirring about</hi> Chancery-Lane <hi>for Equity of Redemption.—Well, Friend</hi> Banker; <hi>I have buiſineſs to do at home, and can't chat with you any longer now, I wiſh you well out of your troubles, you and your Brethren; as to the new Project which is erecting about a</hi> Bank <hi>of</hi> Credit, <hi>I look upon it to be a kind of</hi> Plot <hi>againſt the Government; for, (according to their own propoſals) it can ſuit no Monarchical Government, but that of a</hi> Common<g ref="char:EOLhyphen"/>wealth, <hi>and I am in hopes our Mageſtrates will weigh well what they ſet up of ſuch projects, that may any ways endan<g ref="char:EOLhyphen"/>ger the Peace and Tranquility of the Kingdom.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:48208:9"/>
+               <speaker>B,</speaker>
+               <p>You are quite miſtaken in the matter Mr. <hi>Scrieve<g ref="char:EOLhyphen"/>ner,</hi> I am told otherwiſe, and that by as notable ſhrewd men as are in or about Town, Men of great reach, and underſtanding in buſineſs.— Beſides, you know there are (as 'tis reported) many wiſe and able Aldermen encou<g ref="char:EOLhyphen"/>ragers thereunto, and for my part I do not comprehend the notion of it ſo very clear, yet I am ſure it has no re<g ref="char:EOLhyphen"/>lation to the prejudice of the preſent Government.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Prethee</hi> Banker <hi>don't fill thy head with Projects after all this; I never ſaw any of our late Projectors come to any thing but Poverty and Want, the</hi> Poets <hi>and they may e'ne keep together. But hold a little Mr.</hi> Banker, <hi>I muſt needs ſpeak a word with yonder Friend, and then come to you again.</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Here's more bloody news ſtill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Why, what's the matter now <hi>Scrivener?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The matter d'ye ſay, why matter enough, I think the Devil has poſſest all you</hi> Bankers; <hi>why there's another</hi> We<g ref="char:EOLhyphen"/>ſtern Banker <hi>just broke my Friend brings me word, one</hi> S. <hi>by the</hi> Sanctuary-Office <hi>in</hi> Fleet-ſtreet, <hi>not very far from the</hi> Old Devil, <hi>and his Nephew the</hi> Young one: <hi>Goodneſs Sir, what Men break that never pay Interest for Money! How in the name of</hi> Jove <hi>can this be? What are you all linkt together in a Chain? Well, farewel my dear</hi> Banker, <hi>I'le e'ne home and laugh at a Friend for entruſting</hi> 1500 l. <hi>in his hands.— And ſo dear</hi> Banker <hi>make hast off the</hi> Exchange, <hi>and away to the</hi> Turkiſh-Shoar, <hi>and to thoſe other places where thy Friends are gone before.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Ay farewel dear <hi>Scrivener,</hi> I am reſolved to ſend abroad my firſt Propoſals for compoſition, whilſt things are hot.— Farewel.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48208:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
